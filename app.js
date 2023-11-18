@@ -1,6 +1,6 @@
 const path = require('path');
 
-const rootDir = require('./util/path');
+const rootDir = require('./util/path');   // Helper link from path.js
 
 const express = require('express');
 const bodyParser = require('body-parser');
